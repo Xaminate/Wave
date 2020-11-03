@@ -1,5 +1,5 @@
 # I have created a website specifically for this project. Pretty soon, I will stop uploading here and upload there. So if you want to see the latest news and versions for Wave,
-# please head to this site.
+# Please head to this site.
 
 
 https://sites.google.com/view/projectwave/home
